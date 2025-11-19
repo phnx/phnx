@@ -2,7 +2,7 @@
 
 I’m listing here a selection of projects I’ve worked on (and can be shared publicly), as a quick snapshot.
 
-### Software Engineering Research & Program Analysis
+### Software Engineering Research
 - [sat-evaluation-framework](https://github.com/phnx/sat-commit-framework) - A static applicaiton security testing (SAST) evaluation framework. Code changes warning-based prioritization experiment and replication package for this [paper](https://dl.acm.org/doi/abs/10.1145/3650212.3680313).
 - [code-review-fuzzing-invariant](https://github.com/phnx/code-review-fuzzing-invariant) - A dynamic analysis framework for detecting program behavioral changes, with replication package for this [paper](https://arxiv.org/abs/2510.15512).
 - [patchwork-mining-tool-suite](https://github.com/awsm-research/patchwork-mining-tool-suite) - A large email-based code review dataset and tool suite for mining [Patchwork](https://github.com/getpatchwork/patchwork), an email code review platform used by many OSS projects(including [Linux Kernel](https://patchwork.kernel.org/), [FFMpeg](https://patchwork.ffmpeg.org/project/ffmpeg/list/)), corresponding to this [paper](https://dl.acm.org/doi/pdf/10.1145/3643991.3644872).
