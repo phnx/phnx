@@ -12,8 +12,10 @@ I’m listing here a selection of projects I’ve worked on (and can be shared p
 - [diary-rag](https://github.com/phnx/diary-rag) - Revisiting my Smithnosian blog posts using open-source lightweight RAG and LLM.
 - [sstm-projection](https://github.com/NSM-ITM/sstm2018-projection) - Shanghai Science and Technology Museum - Visitor Prediction (ML project & [Deployment](https://wachiraphc.shinyapps.io/SSTM2018-VisitorProjection/)).
 
-### Database
+### Data & Database 
 - [mysql-nth-position-within-group](https://medium.com/@PingCh/nth-position-within-group-mysql-quick-and-dirty-programming-5277f4cb8191) - Selecting N<sup>th</sup> position within a designated group. [schema & test data](https://gist.github.com/phnx/71a4d9c619e9bb204667ec7b61941c45), [top position](https://gist.github.com/phnx/db2493bcd783fb8391c43c614cefe6fc), [N<sup>th</sup> position](https://gist.github.com/phnx/6be46496e939add7ecdc845225d30805).
+- [blog-r-time-series-map](https://www.datasciya.com/data-science/data-%e0%b9%84%e0%b8%aa%e0%b8%a2%e0%b9%8c-tutorial-%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b9%8c-1-%e0%b8%a1%e0%b8%b1%e0%b8%87%e0%b8%81/), [blog-tableau-time-series-map](https://www.datasciya.com/data-science/data-%E0%B9%84%E0%B8%AA%E0%B8%A2%E0%B9%8C-tutorial-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B9%8C-1-%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81-2/) - A series of blog posts visualizing time-series data on geographic map using R and Tableau (in Thai).
+- [blog-r-eda-1](https://www.datasciya.com/r/data-%e0%b9%84%e0%b8%aa%e0%b8%a2%e0%b9%8c-tutorial-%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b9%8c-2-%e0%b9%80%e0%b8%81%e0%b9%87%e0%b8%9a/), [blog-r-eda-2](https://www.datasciya.com/r/data-%e0%b9%84%e0%b8%aa%e0%b8%a2%e0%b9%8c-tutorial-%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b9%8c-2-%e0%b9%80%e0%b8%81%e0%b9%87%e0%b8%9a-2/) - A series of blog posts performing in-depth exploratory data analysis on an ultramarathon event (in Thai).
 
 ### Miscellaneous
 - [biologic](https://biologic.substack.com/) - A suite of web applications that take a new approach to teaching and assessing scientific concepts (Python, VueJS, AWS).
