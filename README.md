@@ -10,7 +10,7 @@ I’m listing here a selection of projects I’ve worked on (and can be shared p
 - [github-api-rate-limit-watcher](https://gist.github.com/phnx/b5ad855547b359771de2bbaea5f281fb) - A script to pause (and resume) repository mining process when GitHub API's rate limit is reached.
 
 ### Machine Learning & AI
-- [diary-rag](https://github.com/phnx/diary-rag) - Revisiting my Smithnosian blog posts using open-source lightweight RAG and LLM (LangChain, Chroma, Ollama).
+- [diary-rag](https://github.com/phnx/diary-rag) - Revisiting my Smithnosian blog posts using open-source lightweight RAG and LLM (LangChain, Chroma, Ollama), with [explanation](https://github.com/phnx/diary-rag/tree/main/benchmark).
 - [sstm-projection](https://github.com/NSM-ITM/sstm2018-projection) - Shanghai Science and Technology Museum - Visitor Prediction (ML [Deployment](https://wachiraphc.shinyapps.io/SSTM2018-VisitorProjection/)) (R, Shiny).
 
 ### Data & Database 
