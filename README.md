@@ -19,7 +19,7 @@ I’m listing here a selection of projects I’ve worked on (and can be shared p
 - [blog-r-eda-1](https://www.datasciya.com/r/data-%e0%b9%84%e0%b8%aa%e0%b8%a2%e0%b9%8c-tutorial-%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b9%8c-2-%e0%b9%80%e0%b8%81%e0%b9%87%e0%b8%9a/), [blog-r-eda-2](https://www.datasciya.com/r/data-%e0%b9%84%e0%b8%aa%e0%b8%a2%e0%b9%8c-tutorial-%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%b0%e0%b8%8b%e0%b8%b5%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b9%8c-2-%e0%b9%80%e0%b8%81%e0%b9%87%e0%b8%9a-2/) - A series of blog posts performing in-depth exploratory data analysis on an ultramarathon event (in Thai).
 
 ### Miscellaneous
-- [biologic](https://biologic.substack.com/) - A suite of web applications that take a new approach to teaching and assessing scientific concepts (Python, VueJS, AWS).
+- [biologic](https://biologic.substack.com/) - A suite of web applications that take a new approach to teaching and assessing scientific concepts (Python, VueJS, AWS, Vercel).
 - [firebase-class-consensus](https://github.com/phnx/firebase-class-consensus) - A realtime classroom consensus vote & monitoring system with Firebase, explained in [medium](https://medium.com/@PingCh/realtime-classroom-consensus-vote-monitor-with-firebase-quick-and-dirty-development-fe9640c02303).
 - [museum-collection-database](https://github.com/NSM-ITM/CollectionDB) - A Dublin Core–compliant metadata management database, built on top of [OmekaCMS](https://omeka.org/).
 - [museum-rfid-activity-station](https://github.com/NSM-ITM/ITM-RFID-ActivityStation) - A local network client–server checkpoint system for walk-rally activities, built with Raspberry PI clients and a NodeJS backend.
