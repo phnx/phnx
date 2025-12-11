@@ -11,7 +11,7 @@ I’m listing here a selection of projects I’ve worked on (and can be shared p
 
 ### Machine Learning & AI
 - [diary-rag](https://github.com/phnx/diary-rag) - Revisiting my Smithnosian blog posts using open-source lightweight RAG and LLM (LangChain, Chroma, Ollama), with [explanation](https://github.com/phnx/diary-rag/tree/main/benchmark).
-- [context-mcp](github.com/phnx/context-mcp) - Minimal context memory application showcase. MCP server, client (command-line and web), tool analytics, backend/frontend test suites, and deployment pipeline (FastMCP, FastAPI).
+- [context-mcp](https://github.com/phnx/context-mcp) - Minimal context memory application showcase. MCP server, client (command-line and web), tool analytics, backend/frontend test suites, and deployment pipeline (FastMCP, FastAPI).
 - [sstm-projection](https://github.com/NSM-ITM/sstm2018-projection) - Shanghai Science and Technology Museum - Visitor Prediction (ML [Deployment](https://wachiraphc.shinyapps.io/SSTM2018-VisitorProjection/)) (R, Shiny).
 
 ### Data & Database 
